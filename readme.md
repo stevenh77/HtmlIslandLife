@@ -1,15 +1,13 @@
-# Silverlight Xbox Menu
+# Html Island Life:  Silverlight Xbox Menu
 
-This is the source code for the [blog post](http://stevenhollidge.blogspot.co.uk/2012/06/silverlight-xbox-menu.html) by [Steven Hollidge](http://stevenhollidge.com).
+This is a fork from the source code for the [blog post](http://stevenhollidge.blogspot.co.uk/2012/06/silverlight-xbox-menu.html) by [Steven Hollidge](http://stevenhollidge.com).
 
-Source code:  [https://github.com/stevenh77/SilverlightXboxMenu](https://github.com/stevenh77/SilverlightXboxMenu)
+This features HTML islands for bing and batman: dark knight rises trailer.  The screen is hard coded for 1600 x 900.
 
-# Online Demos
-
-[http://stevenhollidge.com/blog-source-code/silverlightxboxmenu](http://stevenhollidge.com/blog-source-code/silverlightxboxmenu)
+Source code:  [https://github.com/stevenh77/SilverlightXboxMenu](https://github.com/stevenh77/HtmlIslandLife)
 
 # Screenshots
 
-![bing](http://stevenhollidge.com/blog-source-code/silverlightxboxmenu/xbox.PNG)
+![bing](http://stevenhollidge.com/blog-source-code/batman/bing.PNG)
 
-![social](http://stevenhollidge.com/blog-source-code/eventtriggers/xbox-menu.PNG)
+![trailer](http://stevenhollidge.com/blog-source-code/batman/trailer.PNG)
